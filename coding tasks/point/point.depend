@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1603526764 source:/home/user/Desktop/codingTasks/Point/point/collection.cc
+	"collection.h"
+	<iostream>
+	<functional>
+
+1603526150 /home/user/Desktop/codingTasks/Point/point/collection.h
+	"point.h"
+	<list>
+	<iterator>
+	<algorithm>
+
+1603524318 /home/user/Desktop/codingTasks/Point/point/point.h
+
+1603526146 source:/home/user/Desktop/codingTasks/Point/point/point.cc
+	"point.h"
+	<iostream>
+	<cmath>
+
+1603530560 source:/home/user/Desktop/codingTasks/Point/point/test.cc
+	<iostream>
+	"gtest/gtest.h"
+	"collection.h"
+	"point.h"
+
